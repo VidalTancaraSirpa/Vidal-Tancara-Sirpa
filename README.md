@@ -1,5 +1,5 @@
 # Vidal-Tancara-Sirpa
-Holaa.. soy Vidal
+# Holaa.. soy Vidal
 
 ■ me gusta la musica 
 ■ toco el piano 
